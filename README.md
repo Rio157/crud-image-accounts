@@ -1,6 +1,13 @@
-Django-Simple-CRUD-Sample
+## crud-image-accounts
 
-Qiita上のtutorialアプリケーションに画像ファイルのアップロードと表示機能、ユーザー登録・認証機能を付与したものです。
+Qiita上のtutorialアプリを俯瞰し、
+- 画像ファイルのアップロードと表示機能
+- ユーザー登録・認証機能
+を付与しました。
 
-参照元　様
-https://qiita.com/okoppe8/items/54eb105c9c94c0960f14
+## 当時の解説記事
+
+[Django - Qiita上のtutorial appを概観し、機能をプラスする（１）](https://qiita.com/emo157/items/c645b33e3a36ccd1d6bc)
+[Django - Qiita上のtutorial appを概観し、機能をプラスする（２）](https://qiita.com/emo157/items/ccb9a09b7351c0bd7434)
+
+
